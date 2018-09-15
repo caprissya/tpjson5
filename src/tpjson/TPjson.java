@@ -17,6 +17,19 @@ public class TPjson {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("hello capris");
-    }
+        int a=2;
+        int b=20;
+        int i=1;
+        
+        while(a<b)
+            
+        {
+        
+        System.out.println("operation numero" + " " + i);
+        i++;
+        
+         a++;     
+        
+    } }
     
 }
